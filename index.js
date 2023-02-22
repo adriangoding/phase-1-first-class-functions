@@ -1,5 +1,5 @@
 function receivesAFunction(h1){
-    console.log(h1());
+    return (h1());
 }
 
 function returnsANamedFunction(){
